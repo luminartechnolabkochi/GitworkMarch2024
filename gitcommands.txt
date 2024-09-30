@@ -1,3 +1,5 @@
+>git status [list all untracked files]
+
 >git init [initialize git in pwd]
 
 >git add -A [adding all untracked files to statging area]

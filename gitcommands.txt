@@ -18,3 +18,5 @@
 >git push remote_name branch [push]
 
 >git branch [list all branches]
+
+>git remote -v [list all remote]
